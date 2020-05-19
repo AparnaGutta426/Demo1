@@ -35,5 +35,6 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("First commit");
+        System.out.println("Second commit");
     }
 }
