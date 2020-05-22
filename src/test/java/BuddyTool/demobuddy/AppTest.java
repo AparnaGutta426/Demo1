@@ -38,5 +38,6 @@ public class AppTest
         System.out.println("Second commit");
         
         System.out.println("Development change 1");
+        System.out.println("Dev changes 2");
     }
 }
